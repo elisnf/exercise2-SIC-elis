@@ -1,0 +1,46 @@
+@media screen and (min-width:200px){
+  h1 {
+    color:darkred;
+}
+@media screen and (max-width:198px) {
+  
+}
+body {
+  background-color: rgb(249, 245, 250);
+ }
+ h1 {
+  color: rgb(121, 48, 128);
+  margin-left: 20px;
+  text-align: center;
+ }
+#img
+{
+  border-radius:50% ;
+  text-align: center;
+}
+
+ #div-with-bg
+ {
+  text-align: center;
+  background-color: rgb(192, 192, 192);
+  padding-bottom:40px;
+  padding-top:40px;
+ }
+ h3 {
+   text-align: center;
+ }
+ p {
+   text-align:center;
+ }
+
+ img {
+   text-align:center;
+ }
+
+#div-with-pict {
+  text-align: center;
+}
+#div-container
+{
+  text-align: center;
+}
