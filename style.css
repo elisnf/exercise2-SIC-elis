@@ -1,9 +1,9 @@
-@media screen and (min-width:200px){
-  h1 {
-    color:darkred;
+@media screen and (min-width:600px){
 }
-@media screen and (max-width:198px) {
-  
+}
+@media screen and (max-width:812px) {
+
+  }
 }
 body {
   background-color: rgb(249, 245, 250);
@@ -22,10 +22,15 @@ body {
  #div-with-bg
  {
   text-align: center;
-  background-color: rgb(192, 192, 192);
+  background-color: rgb(209, 183, 211);
   padding-bottom:40px;
   padding-top:40px;
  }
+
+ h2 {
+   text-align: center;
+ }
+ 
  h3 {
    text-align: center;
  }
@@ -43,4 +48,8 @@ body {
 #div-container
 {
   text-align: center;
+}
+td {
+  padding-right: 50px;
+  padding-left: 50px;
 }
